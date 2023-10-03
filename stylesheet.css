@@ -1,0 +1,40 @@
+
+#sec1 {
+    background-color: #F82CA9;
+    color: #FEEDEE;
+    font-family: "Comic Sans MS";
+    padding: 20px;
+}
+
+#sec2 {
+    background-color: #B38A0C;
+    padding: 80px;
+    margin: 100px;
+    border: 10px solid #CCC;
+}
+
+h1 {
+	font-family: "Comic Sans MS";
+	color: #000100;
+}
+
+p {
+	color: #000000;
+}
+
+.ugly {	
+	padding: 20px;
+    font-family: "Comic Sans MS";
+    background-color: #F827A9;
+    color: #00FFF0;
+}
+
+.reason {
+	padding: 20px;
+	background-color: #202020;
+	color: #FFFFFF;
+}
+
+a:hover {
+	color: #FF0000;
+}
